@@ -106,13 +106,6 @@ Projets académiques (algorithmique, Java, bases de données), projets personnel
 
 ---
 
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjadid91&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjadid91&layout=compact&theme=default&hide_border=true&langs_count=6)
-
----
-
 ## 📈 Axes de progression
 
 Approfondissement du **développement full-stack**, architecture logicielle et bonnes pratiques avancées, sécurité des applications web, optimisation des performances, et tests et validation du code.
@@ -131,7 +124,7 @@ Approfondissement du **développement full-stack**, architecture logicielle et b
 
 - 🌐 Portfolio : [mjadid91.github.io/my-portfolio](https://mjadid91.github.io/my-portfolio/)  
 - 💼 LinkedIn : [Votre profil LinkedIn]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/mohamedjadid91/))  
-- 📧 Email : [votre.email@example.com](mailto:med.jadid@hotmail.com)
+- 📧 Email : [med.jadid@hotmail.com](mailto:med.jadid@hotmail.com)
 
 ---
 
