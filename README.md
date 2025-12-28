@@ -1,186 +1,140 @@
-\<div align=\"center\"\> \<img
-src=\"https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Bonjour+%F0%9F%91%8B+Je+suis+Mohamed;Développeur+Full-Stack;Étudiant+en+BUT+Informatique\"
-alt=\"Typing SVG\" /\> \</div\>
+# 👋 Mohamed Jadid  
+## Développeur d'applications · Full-Stack Web
 
-\<h1 align=\"center\"\>👨‍💻 Mohamed Jadid\</h1\>
+🎓 BUT Informatique – Parcours Développement d'applications (Université Paris-Saclay)  
+📍 Île-de-France  
+💡 Intérêt principal : conception d'applications web propres, maintenables et orientées utilisateur
 
-\<p align=\"center\"\> \<em\>Étudiant en 3ème année de BUT Informatique
-\| Passionné par le développement web et logiciel\</em\> \</p\>
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://mjadid91.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedjadid91/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:med.jadid@hotmail.com)
 
-\<p align=\"center\"\> \<a
-href=\"https://mjadid91.github.io/my-portfolio/\"\> \<img
-src=\"https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white\"
-alt=\"Portfolio\" /\> \</a\> \<a
-href=\"https://linkedin.com/in/votre-profil\"\> \<img
-src=\"https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\"
-alt=\"LinkedIn\" /\> \</a\> \<a
-href=\"mailto:votre.email@example.com\"\> \<img
-src=\"https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white\"
-alt=\"Email\" /\> \</a\> \</p\>
+---
 
-\-\--
+## 👨‍💻 Présentation
 
-\## 🚀 À propos de moi
+Je suis développeur spécialisé dans la **conception et le développement d'applications web**, avec une approche centrée sur la **qualité du code**, la **structuration des projets** et la **résolution de problèmes concrets**.
 
-Je suis actuellement en \*\*3ème année de BUT Informatique\*\* et je me
-spécialise dans le développement d\'applications web et logicielles.
-Passionné par les nouvelles technologies, j\'aime relever des défis
-techniques et créer des solutions innovantes.
+Mon parcours en BUT Informatique m'a permis d'acquérir une base solide en algorithmique et structures de données, programmation orientée objet, développement web full-stack, bases de données et modélisation, ainsi que gestion de projets et travail en équipe.
 
-🎯 \*\*Objectif actuel\*\* : En recherche active d\'opportunités pour un
-stage de fin d\'études ou un premier emploi dans le développement
-logiciel.
+Je privilégie une démarche **pragmatique** : comprendre le besoin, proposer une solution cohérente, puis livrer une application stable, lisible et évolutive.
 
-💡 \*\*Ce qui me motive\*\* : Transformer des idées en applications
-concrètes, apprendre continuellement et collaborer sur des projets
-stimulants.
+---
 
-\-\--
+## 🧠 Méthodologie & état d'esprit
 
-\## 🛠️ Compétences Techniques
+Dans mes projets, je m'efforce de écrire un **code clair et structuré**, respecter les **bonnes pratiques** (nommage, découpage, documentation), penser l'architecture avant d'implémenter, garder une logique **produit** plutôt qu'un simple empilement de fonctionnalités, et améliorer progressivement les performances et l'UX.
 
-\### Langages de Programmation \<p\> \<img
-src=\"https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white\"
-alt=\"Java\" /\> \<img
-src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black\"
-alt=\"JavaScript\" /\> \<img
-src=\"https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white\"
-alt=\"PHP\" /\> \<img
-src=\"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white\"
-alt=\"Python\" /\> \<img
-src=\"https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white\"
-alt=\"SQL\" /\> \<img
-src=\"https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white\"
-alt=\"C\" /\> \</p\>
+Je considère GitHub comme un **outil de travail**, pas juste une vitrine : commits propres, historique compréhensible et projets maintenus.
 
-\### Frameworks & Bibliothèques \<p\> \<img
-src=\"https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black\"
-alt=\"React\" /\> \<img
-src=\"https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white\"
-alt=\"Symfony\" /\> \<img
-src=\"https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white\"
-alt=\"Spring Boot\" /\> \<img
-src=\"https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white\"
-alt=\"Node.js\" /\> \<img
-src=\"https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white\"
-alt=\"JavaFX\" /\> \</p\>
+---
 
-\### Technologies Web \<p\> \<img
-src=\"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white\"
-alt=\"HTML5\" /\> \<img
-src=\"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white\"
-alt=\"CSS3\" /\> \<img
-src=\"https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white\"
-alt=\"Tailwind\" /\> \<img
-src=\"https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white\"
-alt=\"Bootstrap\" /\> \</p\>
+## 🛠️ Compétences techniques détaillées
 
-\### Bases de Données \<p\> \<img
-src=\"https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white\"
-alt=\"MySQL\" /\> \<img
-src=\"https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white\"
-alt=\"PostgreSQL\" /\> \<img
-src=\"https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white\"
-alt=\"MongoDB\" /\> \<img
-src=\"https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white\"
-alt=\"Oracle\" /\> \</p\>
+### Langages de programmation
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-\### Outils & DevOps \<p\> \<img
-src=\"https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white\"
-alt=\"Git\" /\> \<img
-src=\"https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white\"
-alt=\"GitHub\" /\> \<img
-src=\"https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white\"
-alt=\"Docker\" /\> \<img
-src=\"https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white\"
-alt=\"VS Code\" /\> \<img
-src=\"https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white\"
-alt=\"IntelliJ\" /\> \</p\>
+- **Python** – développement back-end, scripts, automatisation  
+- **Java** – POO, applications structurées  
+- **JavaScript** – logique front-end, interactions  
+- **PHP** – développement web back-end
+- **SQL** – requêtes complexes, modélisation relationnelle  
 
-\-\--
+### Frameworks & technologies web
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-\## 💼 Projets Phares
+- **Django** – back-end robuste, MVC, sécurité, ORM  
+- **React** – interfaces dynamiques et modulaires  
+- **Symfony** – développement PHP professionnel
+- **HTML5 / CSS3** – intégration propre et responsive  
+- **Tailwind CSS** – design rapide et cohérent  
 
-\### 🎮 Application de Gestion de Jeux Vidéo \> \*\*Technologies\*\* :
-Java, JavaFX, MySQL - Développement d\'une application desktop complète
-pour gérer une collection de jeux vidéo - Implémentation d\'un système
-CRUD avec interface graphique intuitive - Gestion de base de données
-relationnelle avec requêtes SQL optimisées
+### Bases de données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-\### 🌐 Site E-commerce Full-Stack \> \*\*Technologies\*\* : React,
-Symfony, PostgreSQL - Création d\'une plateforme e-commerce responsive
-avec panier d\'achat dynamique - API RESTful sécurisée avec
-authentification JWT - Interface d\'administration pour la gestion des
-produits et commandes
+- **PostgreSQL** – projets structurés, relations complexes  
+- **MySQL** – applications web, optimisation des requêtes
+- **SQLite** – prototypage et projets légers  
 
-\### 📊 Dashboard Analytics \> \*\*Technologies\*\* : JavaScript,
-Node.js, MongoDB, Chart.js - Application web de visualisation de données
-en temps réel - Intégration d\'API externes et traitement de données -
-Graphiques interactifs et tableaux de bord personnalisables
+### Outils & environnement
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-\### 🔐 Système de Gestion d\'Utilisateurs \> \*\*Technologies\*\* :
-PHP, MySQL, Bootstrap - Application web sécurisée avec système
-d\'authentification complet - Gestion des rôles et permissions
-utilisateurs - Interface responsive et moderne
+- **Git / GitHub** – versioning, collaboration  
+- **Linux** – environnement de développement  
+- **VS Code** – productivité et extensions  
+- **Docker** – conteneurisation et déploiement
+- **Figma** *(notions)* – réflexion UI/UX  
 
-\-\--
+---
 
-\## 📊 Statistiques GitHub
+## 📂 Projets principaux
 
-\<div align=\"center\"\> \<img
-src=\"https://github-readme-stats.vercel.app/api?username=mjadid91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true\"
-alt=\"GitHub Stats\" height=\"170\" /\> \<img
-src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=mjadid91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8\"
-alt=\"Top Languages\" height=\"170\" /\> \</div\>
+### 🔹 WebStage — Plateforme de gestion des stages
+Application web permettant de gérer les entreprises partenaires, centraliser les offres de stage, suivre les candidatures, et structurer le processus de recherche de stage.
 
-\<div align=\"center\"\> \<img
-src=\"https://github-readme-streak-stats.herokuapp.com/?user=mjadid91&theme=tokyonight&hide_border=true\"
-alt=\"GitHub Streak\" /\> \</div\>
+**Stack** : Django · HTML/CSS · PostgreSQL  
+**Objectif** : simplifier et professionnaliser la gestion des stages.
 
-\-\--
+---
 
-\## 🎓 Formation
+### 🔹 WebTravel — Application de gestion de voyages
+Application web dédiée à l'organisation de voyages, la gestion des villes et étapes, et la planification et la visualisation des parcours.
 
-\*\*BUT Informatique\*\* - IUT \[Nom de votre IUT\] \*2022 - 2025\*
+**Stack** : Django · JavaScript · UI responsive  
+**Objectif** : proposer une interface claire pour organiser des voyages complexes.
 
-Parcours orienté développement d\'applications avec une solide formation
-en : - Programmation orientée objet et développement web - Bases de
-données et architecture logicielle - Gestion de projet et méthodologies
-agiles - Qualité de développement et tests
+---
 
-\-\--
+### 🔹 Autres projets
+Projets académiques (algorithmique, Java, bases de données), projets personnels d'apprentissage et d'expérimentation, scripts et outils internes.
 
-\## 🌱 Actuellement en apprentissage
+📁 Tous les projets sont disponibles dans mes repositories, avec un souci de clarté et de documentation.
 
-\- 🔹 Architecture microservices avec Docker et Kubernetes - 🔹
-Framework Spring Boot avancé - 🔹 Tests automatisés et CI/CD - 🔹 Design
-patterns et clean architecture
+---
 
-\-\--
+## 📊 Statistiques GitHub
 
-\## 📫 Me Contacter
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjadid91&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjadid91&layout=compact&theme=default&hide_border=true&langs_count=6)
 
-\<div align=\"center\"\>
+---
 
-💼 \*\*Portfolio\*\* :
-\[mjadid91.github.io/my-portfolio\](https://mjadid91.github.io/my-portfolio/)
-📧 \*\*Email\*\* :
-\[votre.email@example.com\](mailto:votre.email@example.com) 💼
-\*\*LinkedIn\*\* :
-\[linkedin.com/in/votre-profil\](https://linkedin.com/in/votre-profil)
+## 📈 Axes de progression
 
-\</div\>
+Approfondissement du **développement full-stack**, architecture logicielle et bonnes pratiques avancées, sécurité des applications web, optimisation des performances, et tests et validation du code.
 
-\-\--
+---
 
-\<div align=\"center\"\> \<img
-src=\"https://komarev.com/ghpvc/?username=mjadid91&style=for-the-badge&color=3B82F6\"
-alt=\"Profile Views\" /\> \</div\>
+## 🎯 Objectifs professionnels
 
-\<div align=\"center\"\> \<em\>💡 \"Le code est de la poésie que seul un
-ordinateur peut comprendre\" 💡\</em\> \</div\>
+**À court et moyen terme** : intégrer des projets concrets et techniques, monter en compétences sur des stacks modernes, participer à des applications à impact réel.
 
-\-\--
+**À long terme** : devenir un développeur **autonome, rigoureux et fiable**, contribuer à des projets complexes et bien structurés.
 
-\<div align=\"center\"\> ⭐ N\'hésitez pas à explorer mes repositories
-et à me contacter pour toute collaboration ! ⭐ \</div\>
+---
+
+## 📬 Contact & liens
+
+- 🌐 Portfolio : [mjadid91.github.io/my-portfolio](https://mjadid91.github.io/my-portfolio/)  
+- 💼 LinkedIn : [Votre profil LinkedIn]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/mohamedjadid91/))  
+- 📧 Email : [votre.email@example.com](mailto:med.jadid@hotmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mjadid91&style=flat-square&color=3B82F6)
+
+⭐ Merci de prendre le temps de consulter mon profil. N'hésitez pas à explorer mes projets ou à me contacter.
