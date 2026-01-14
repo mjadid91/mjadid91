@@ -123,7 +123,7 @@ Approfondissement du **développement full-stack**, architecture logicielle et b
 ## 📬 Contact & liens
 
 - 🌐 Portfolio : [mjadid91.github.io/my-portfolio](https://mjadid91.github.io/my-portfolio/)  
-- 💼 LinkedIn : [Votre profil LinkedIn]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/mohamedjadid91/))  
+- 💼 LinkedIn : [Mon profil Linkedin]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/mohamedjadid91/))  
 - 📧 Email : [med.jadid@hotmail.com](mailto:med.jadid@hotmail.com)
 
 ---
